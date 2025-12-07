@@ -1,4 +1,4 @@
-# Azure Resource Group Deleter v1.0
+# Azure Resource Group Deleter
 
 Documentação Técnica do script de deleção de Grupos de Recursos no Microsoft Azure, focado em automação segura, previsível e auditável.
 
